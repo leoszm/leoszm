@@ -3,10 +3,11 @@
 Hello I'm Leonardo Martins  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" />
 </h1>
 
-<img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=leonardomartiins&show_icons=true&theme=radical " />
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomartiins&layout=compact" />
-<br />
+<div align="center">
+  <a href="https://github.com/leonardomartiins">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardomartiins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomartiins&layout=compact&langs_count=7&theme=dark"/>
+</div>
 <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 
 <img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> 
