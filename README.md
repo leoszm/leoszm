@@ -8,6 +8,8 @@ Hello I'm Leonardo Martins  <img src="https://media.giphy.com/media/12oufCB0MyZ1
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoszm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoszm&layout=compact&langs_count=7&theme=dark"/>
 </div>
+</br>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=leoszm&theme=dark" alt="leoszm" /></p>
   <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/leoszm/count.svg" /></p>
 <p><img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 
