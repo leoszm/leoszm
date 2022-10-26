@@ -8,7 +8,8 @@ Hello I'm Leonardo Martins  <img src="https://media.giphy.com/media/12oufCB0MyZ1
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoszm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoszm&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/leoszm/count.svg" /></p>
+<p><img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 
 <img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> 
 
@@ -16,16 +17,14 @@ Hello I'm Leonardo Martins  <img src="https://media.giphy.com/media/12oufCB0MyZ1
 
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" /></p>
 
 
 ## <br />🙋‍♂️ Connect with me 
-
-
-
-<br />
+  <div>
     <a href="https://www.instagram.com/lleonardo.sz.martinss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:leonardosousa60.profissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/leonardo-souza-martins-ba0230204" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
     
 ![snake gif](https://github.com/leoszm/leoszm/blob/output/github-contribution-grid-snake.svg)
