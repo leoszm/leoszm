@@ -11,6 +11,8 @@ Hello I'm Leonardo Martins  <img src="https://media.giphy.com/media/12oufCB0MyZ1
 </br>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=leoszm&theme=dark" alt="leoszm" /></p>
   <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/leoszm/count.svg" /></p>
+  
+## <br />💻 Languages and Tools: 
 <p><img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 
 <img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> 
@@ -19,7 +21,7 @@ Hello I'm Leonardo Martins  <img src="https://media.giphy.com/media/12oufCB0MyZ1
 
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" /></p>
+<img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" /></p>
 
 
 ## <br />🙋‍♂️ Connect with me 
