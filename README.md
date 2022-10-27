@@ -5,7 +5,7 @@ Hello, my name is Leonardo Martins  <img src="https://media.giphy.com/media/12ou
 </br>
 
 
-## <br />💻 About me:
+## <br />📚 About me:
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif"/>
 
@@ -25,7 +25,7 @@ Hello, my name is Leonardo Martins  <img src="https://media.giphy.com/media/12ou
 
 - 📫 How to reach me **leonardosousa60.profissional@gmail.com**
 
-## <br />💻 Stats:
+## <br />📋 Stats:
 
 <div align="center">
   <a href="https://github.com/leoszm">
