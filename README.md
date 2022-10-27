@@ -1,7 +1,31 @@
 <h1 align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-Hello I'm Leonardo Martins  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" />
+Hello, my name is Leonardo Martins  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" />
 </h1>
+</br>
+
+
+## <br />💻 About me:
+
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif"/>
+
+- 🤵 I'm web developer and Science Computation student.
+
+- 🔭 I’m currently working at **City Hall of Santo André, SP, BRAZIL**
+
+- 🤖 I like to learn new things and ideas, technologies and meet new people!
+
+- 🌱 I’m currently learning **Aspnet Core & C#, APIS**
+
+- 👨‍💻 All of my projects are available at [leoszm](https://github.com/leoszm?tab=repositories)
+
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/leonardo-souza-martins-ba0230204/)
+
+- 💬 Ask me about **Aspnet Core with .Net 6.0, C#, APIs, PHP, Html5, Css3 & JS**
+
+- 📫 How to reach me **leonardosousa60.profissional@gmail.com**
+
+## <br />💻 Stats:
 
 <div align="center">
   <a href="https://github.com/leoszm">
