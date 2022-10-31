@@ -55,11 +55,11 @@ Hello, my name is Leonardo Martins  <img src="https://media.giphy.com/media/12ou
 
 <div align="center">
   <a href="https://github.com/leoszm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoszm&show_icons=true&count_private=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoszm&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoszm&show_icons=true&count_private=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoszm&layout=compact&langs_count=7&theme=radical"/>
 </div>
 </br>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=leoszm&theme=dark" alt="leoszm" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=leoszm&theme=radical" alt="leoszm" /></p>
 
 ## <br />🙋‍♂️ Connect with me 
   <div>
