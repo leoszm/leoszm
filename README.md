@@ -13,7 +13,7 @@ Hello, my name is Leonardo Martins  <img src="https://media.giphy.com/media/12ou
 
 - 🔭 I’m currently working at **City Hall of Santo André, SP, BRAZIL**
 
-- 🤖 I like to learn new things and ideas, technologies and meet<br> new people!
+- 🤖 I like to learn new things and ideas, technologies and meet new people!
 
 - 🌱 I’m currently learning **Aspnet Core & C#, APIS**
 
