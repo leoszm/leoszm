@@ -1,6 +1,6 @@
 <h1 align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-Hello, my name is Leonardo Martins  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" />
+Hey, my name is Leonardo Martins  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" />
 </h1>
 </br>
   <p align="center">   <img alingn="center" width="300" src="https://profile-counter.glitch.me/leoszm/count.svg" /></p>
@@ -11,19 +11,19 @@ Hello, my name is Leonardo Martins  <img src="https://media.giphy.com/media/12ou
 
 - 🤵 I'm web developer and Science Computation student.
 
-- 🔭 I’m currently working at **City Hall of Santo André, SP, BRAZIL**
+- 🔭 I’m currently working at **City Hall of Santo André, SP, BRAZIL**.
 
 - 🤖 I like to learn new things and ideas, technologies and meet new people!
 
-- 🌱 I’m currently learning **Aspnet Core & C#, APIS**
+- 🌱 I’m currently learning **Aspnet Core & C#, APIS**.
 
-- 👨‍💻 All of my projects are available at [leoszm](https://github.com/leoszm?tab=repositories)
+- 👨‍💻 All of my projects are available at [leoszm](https://github.com/leoszm?tab=repositories).
 
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/leonardo-souza-martins-ba0230204/)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/leonardo-souza-martins-ba0230204/).
 
-- 💬 Ask me about **Aspnet Core with .Net 6.0, C#, APIs, PHP, Html5, <br>Css3 & JS**
+- 💬 Ask me about **Aspnet Core with .Net 6.0, C#, APIs, PHP, Html5, <br>Css3 & JS**.
 
-- 📫 How to reach me **leonardosousa60.profissional@gmail.com**
+- 📫 How to reach me **leonardosousa60.profissional@gmail.com**.
 
 ## <br />💻 Languages and Tools:
 <div>
