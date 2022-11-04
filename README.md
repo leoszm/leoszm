@@ -58,7 +58,7 @@
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/leonardo-souza-martins-ba0230204/).
 
-- 💬 Ask me about **Aspnet Core with .Net 6.0, C#, APIs, PHP, Html5, <br>Css3 & JS**.
+- 💬 Ask me about **Aspnet Core with .Net 6.0, C#, APIs, PHP, Html5, Css3 & JS**.
 
 - 📫 How to reach me **leonardosousa60.profissional@gmail.com**.
   
