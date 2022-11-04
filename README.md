@@ -1,8 +1,10 @@
-<h1 align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-Hey, my name is Leonardo Martins  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" />
-</h1>
-</br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+LEONARDO+SOUZA+MARTINS;I'M+22+YEARS+OLD;I'M+FROM+SANTO+ANDRÉ,+SP;I'M+STUDYING+COMPUTER+SCIENCE;WELCOME!+:%29)](https://git.io/typing-svg)
+
+
+## <br /> 📋 Stats:
+
   <p align="center">   <img alingn="center" width="300" src="https://profile-counter.glitch.me/leoszm/count.svg" /></p>
 
 ## 📚 About me:
@@ -53,13 +55,14 @@ Hey, my name is Leonardo Martins  <img src="https://media.giphy.com/media/12oufC
 
 ## <br /> 📋 Stats:
 
-<div align="center">
-  <a href="https://github.com/leoszm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoszm&show_icons=true&count_private=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoszm&layout=compact&langs_count=7&theme=radical"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leoszm&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Leonaro Souza Martins github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoszm&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 </br>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=leoszm&theme=radical" alt="leoszm" /></p>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=leoszm&theme=sea&hide_border=true&background=0D1117&sideNums=00BFBF&currStreakNum=00BFBF&ring=31DD37&fire=2DFF15&sideLabels=79FFFA&dates=FFFFFF&currStreakLabel=79FFFA&stroke=2B53C9"/>
+</p>
 
 ## <br />🙋‍♂️ Connect with me 
   <div>
@@ -71,3 +74,4 @@ Hey, my name is Leonardo Martins  <img src="https://media.giphy.com/media/12oufC
 ## <br />🐍 Snake eating the activities 😲
 
 ![snake gif](https://github.com/leoszm/leoszm/blob/output/github-contribution-grid-snake.svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
