@@ -10,7 +10,7 @@
 ## <br /> 📋 Stats:
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leoszm&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Leonaro Souza Martins github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leoszm&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Souza Martins github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoszm&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 </br>
@@ -44,7 +44,7 @@
 
 ## 📚 About me:
 
-<img align="right" alt="Coding" width="450" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif"/>
+<img align="right" alt="Coding" width="460" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif"/>
 
 - 🤵 I'm web developer and Science Computation student.
 
