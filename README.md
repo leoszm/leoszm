@@ -35,8 +35,6 @@
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    </p>
-    <p>
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
@@ -70,13 +68,13 @@
  
  <img align="right" alt="coffee" width="400" src="https://media.tenor.com/XpKPhpDLNXUAAAAC/coffee-anime.gif"/>
   
-- Esquente a água, ponto ideal para desligar o fogo é no estágio das pequenas bolhas (90ºC a 92ºC). Se você puder usar mineral, melhor.
+- Heat the water, the ideal point to turn off the fire is at the stage of small bubbles (90ºC to 92ºC or 194°F to 197°F). If you can use mineral water, even better.
 
-- Escalde o coador de pano com a água quente (dica: se você deixou a água ferver, não se incomode: ela vai chegar à temperatura ideal enquanto você escalda o coador).
+- Blanch the cloth strainer with the hot water (hint: if you boiled the water, don't worry: it will reach the ideal temperature while you scald the strainer).
 
-- Coloque o pó de café no coador.
+- Put the coffee grounds in the filter.
 
-- Comece a despejar a água quente no centro do coador e vá fazendo movimento circulares. Isso ajudará a mexer o pó de café e dispensa a necessidade de mexer com a colher.
+- Start pouring the hot water into the center of the filter and make circular motions. This will help stir the coffee grounds and eliminate the need to stir with a spoon.
 
 <h3 align="center">☕~Após escoar completamente o seu café esta pronto!~🌙<h3/>
 
