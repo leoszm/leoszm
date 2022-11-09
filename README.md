@@ -68,7 +68,7 @@
   
 ## ☕ Do you want Coffee?
  
- <img align="right" alt="coffee" length="400" src="https://media.tenor.com/XpKPhpDLNXUAAAAC/coffee-anime.gif"/>
+ <img align="right" alt="coffee" height="320" src="https://media.tenor.com/XpKPhpDLNXUAAAAC/coffee-anime.gif"/>
   
 - Esquente a água, ponto ideal para desligar o fogo é no estágio das pequenas bolhas (90ºC a 92ºC). Se você puder usar mineral, melhor.
 
