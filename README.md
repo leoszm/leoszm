@@ -7,8 +7,9 @@
 
 ## <br /> 🌎 Views:
 <br>
-
-  <p align="center">   <img alingn="center" width="300" src="https://profile-counter.glitch.me/leoszm/count.svg" /></p>
+<p align="center">
+  <img width="300" src="https://profile-counter.glitch.me/leoszm/count.svg" />
+ <p/>
  
 ## 📋 Stats:
 
@@ -65,10 +66,22 @@
 
 - 📫 How to reach me **leonardosousa60.profissional@gmail.com**.
   
+## ☕ Do you want Coffee?
+ 
+ <img align="right" alt="coffee" width="490" src="https://media.tenor.com/XpKPhpDLNXUAAAAC/coffee-anime.gif"/>
+  
+- Esquente a água, ponto ideal para desligar o fogo é no estágio das pequenas bolhas (90ºC a 92ºC). Se você puder usar mineral, melhor.
+
+- Escalde o coador de pano com a água quente (dica: se você deixou a água ferver, não se incomode: ela vai chegar à temperatura ideal enquanto você escalda o coador).
+
+- Coloque o pó de café no coador.
+
+- Comece a despejar a água quente no centro do coador e vá fazendo movimento circulares. Isso ajudará a mexer o pó de café e dispensa a necessidade de mexer com a colher.
+
+- Após escoar completamente o seu café está pronto!
 
 ## 🙋‍♂️ Connect with me 
 <div>
-  <img align="right" alt="coffee" width="200" src="https://media.tenor.com/XpKPhpDLNXUAAAAC/coffee-anime.gif"/>
   <p>
     <a href="https://www.instagram.com/lleo_smz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:leonardosousa60.profissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
