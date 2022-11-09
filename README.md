@@ -44,7 +44,7 @@
 
 ## 📚 About me:
 
-<img align="right" alt="Coding" width="460" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif"/>
+<img align="right" alt="Coding" width="430" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif"/>
 
 - 🤵 I'm web developer and Science Computation student.
 
