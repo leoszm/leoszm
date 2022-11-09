@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+LEONARDO+SOUZA+MARTINS;I'M+22+YEARS+OLD;I'M+FROM+SANTO+ANDRÉ,+SP;I'M+STUDYING+COMPUTER+SCIENCE,+8/8+SEMESTERS;WELCOME+AND+ENJOY!+:%29)](https://git.io/typing-svg)
 
+<p><img alt="Coding" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-anime-lofi-1.gif"/><p/>
+
 
 ## <br /> 🌎 Views:
 
@@ -44,7 +46,7 @@
 
 ## 📚 About me:
 
-<img align="right" alt="Coding" width="430" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif"/>
+<img align="right" alt="Coding" width="430" src="https://media.tenor.com/FdkbSvSxI9MAAAAM/chilled-lamb-mienar.gif"/>
 
 - 🤵 I'm web developer and Science Computation student.
 
@@ -71,7 +73,7 @@
 </div>
 <br>
   
-## 🐍 Snake eating the activities 😲
+## 🐍 Snake
 
 ![snake gif](https://github.com/leoszm/leoszm/blob/output/github-contribution-grid-snake.svg)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
