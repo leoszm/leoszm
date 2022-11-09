@@ -66,7 +66,7 @@
 
 - 📫 How to reach me **leonardosousa60.profissional@gmail.com**.
   
-## ☕ Do you want Coffee?
+## ☕ Do you want Coffee? <br>
  
  <img align="right" alt="coffee" width="400" src="https://media.tenor.com/XpKPhpDLNXUAAAAC/coffee-anime.gif"/>
   
@@ -78,7 +78,7 @@
 
 - Comece a despejar a água quente no centro do coador e vá fazendo movimento circulares. Isso ajudará a mexer o pó de café e dispensa a necessidade de mexer com a colher.
 
-- Após escoar completamente o seu café está pronto!
+<h3 align="center">☕~Após escoar completamente o seu café esta pronto!~🌙<h3/>
 
 ## 🙋‍♂️ Connect with me 
 <div>
