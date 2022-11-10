@@ -76,7 +76,7 @@
 
 - Start pouring the hot water into the center of the filter and make circular motions. This will help stir the coffee grounds and eliminate the need to stir with a spoon.
 
-<h3 align="center">☕~Após escoar completamente o seu café esta pronto!~🌙<h3/>
+<h3 align="center">☕~After draining completely your coffee is ready!~🌙<h3/>
 
 ## 🙋‍♂️ Connect with me 
 <div>
