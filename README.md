@@ -64,7 +64,7 @@
 
 - 📫 How to reach me **leonardosousa60.profissional@gmail.com**.
   
-## ☕ Do you want Coffee? (* Please, do it listening jazz...~~) <br>
+## ☕ Do you want Coffee? (* Please, do it listening jazz~~) <br>
  
  <img align="right" alt="coffee" width="400" src="https://media.tenor.com/XpKPhpDLNXUAAAAC/coffee-anime.gif"/>
   
