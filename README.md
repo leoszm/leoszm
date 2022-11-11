@@ -74,7 +74,7 @@
 
 - Put the coffee grounds in the filter.
 
-- Start pouring the hot water into the center of the filter and make circular motions. This will help stir the coffee grounds and eliminate the need to stir with a spoon.
+- Start pouring the hot water into the center of the filter and make circular motions. This will help stir the coffee grounds and<br>eliminate the need to stir with a spoon.
 
 <h3 align="center">☕~After draining completely your coffee is ready!~🌙<h3/>
 
