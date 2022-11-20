@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+Is+Leonardo+Souza+Martins;I'm+22+Years+Old;I'm+From+Santo+André,+SP;I'm+Studying+Computer+Science,+8th+Semester;Welcome+And+Enjoy!+:%29)](https://git.io/typing-svg)
 
 <p><img alt="Coding" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-anime-lofi-1.gif"/><p/>
-
+ 
 
 ## <br /> 🌎 Views:
 <br>
