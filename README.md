@@ -12,7 +12,7 @@
   <img width="300" src="https://profile-counter.glitch.me/leoszm/count.svg" />
  <p/>
  
-## 📋 Stats:
+## 📋 GitHub Analytics:
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leoszm&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /> 
@@ -51,7 +51,7 @@
 
 - 🤵 I'm web developer and Science Computation student.
 
-- 🔭 I’m currently working at **City Hall of Santo André, SP, BRAZIL**.
+- 🔭 I’m currently working at [City Hall of Santo André, SP, BRAZIL](https://web.santoandre.sp.gov.br).
 
 - 🤖 I like to learn new things and ideas, technologies and meet new people!
 
@@ -79,7 +79,7 @@
 
 <h3 align="center">☕~After draining completely your coffee is ready!~🌙<h3/>
 
-## 🙋‍♂️ Connect with me 
+## 🙋‍♂️ Social Links: 
 <div>
   <p>
     <a href="https://www.instagram.com/lleo_smz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
