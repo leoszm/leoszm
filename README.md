@@ -5,7 +5,7 @@
 <p><img alt="Coding" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-anime-lofi-1.gif"/><p/>
  
 
-## <br /> 🌎 Views:
+## <br /> 🌎 Views: 
 <br>
 
 <p align="center">
