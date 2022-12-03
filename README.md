@@ -79,7 +79,7 @@
 
 <h3 align="center">☕~After draining completely your coffee is ready!~🌙<h3/>
 
-## 🙋‍♂️ Social Links: 
+## 🙋‍♂️ Social Links:
 <div>
   <p>
     <a href="https://www.instagram.com/lleo_smz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
