@@ -1,6 +1,26 @@
 <p align="center"><img width="90%" alt="Coding" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-anime-lofi-1.gif"/><p/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+Is+Leonardo+Souza+Martins;I'm+22+Years+Old;I'm+From+Santo+André,+SP;I'm+Studying+Computer+Science,+8th+Semester;Welcome+And+Enjoy!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+Is+Leonardo+Souza+Martins;I'm+22+Years+Old;I'm+From+Santo+André,+SP;I'm+Web+Developer+and+Bachelor's+Degree+In+Computer+Science;Welcome+And+Enjoy!+:%29)](https://git.io/typing-svg)
+
+<h2 align="center">📚&ensp; <i>A B O U T &nbsp M E</i> &ensp;📚</h2>
+
+<img align="right" alt="Coding" width="430" src="https://media.tenor.com/FdkbSvSxI9MAAAAM/chilled-lamb-mienar.gif" />
+
+- 🤵 I'm web developer and Bachelor's Degree in Computer Science.
+
+- 🔭 I’m currently working at [City Hall of Santo André, SP, BRAZIL](https://web.santoandre.sp.gov.br).
+
+- 🤖 I like to learn new things and ideas, technologies and meet new people!
+
+- 🌱 I’m currently learning **Aspnet Core MVC .Net 6.0 & C#, APIS**.
+
+- 👨‍💻 All of my projects are available at [leoszm](https://github.com/leoszm?tab=repositories).
+
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/leoszm/).
+
+- 💬 Ask me about **Aspnet Core with .Net 6.0, C#, APIs, PHP, Html5, Css3 & JS**.
+
+- 📫 How to reach me **leonardosousa60.profissional@gmail.com**.
 
 <h2 align="center">🌎&ensp; <i>V I E W S</i> &ensp;🌎</h2>
 <br>
@@ -54,28 +74,11 @@
     </th>
   </table>
 <div>
-
-<h2 align="center">📚&ensp; <i>A B O U T &nbsp M E</i> &ensp;📚</h2>
-
-<img align="right" alt="Coding" width="430" src="https://media.tenor.com/FdkbSvSxI9MAAAAM/chilled-lamb-mienar.gif" />
-
-- 🤵 I'm web developer and Science Computation student.
-
-- 🔭 I’m currently working at [City Hall of Santo André, SP, BRAZIL](https://web.santoandre.sp.gov.br).
-
-- 🤖 I like to learn new things and ideas, technologies and meet new people!
-
-- 🌱 I’m currently learning **Aspnet Core MVC .Net 6.0 & C#, APIS**.
-
-- 👨‍💻 All of my projects are available at [leoszm](https://github.com/leoszm?tab=repositories).
-
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/leoszm/).
-
-- 💬 Ask me about **Aspnet Core with .Net 6.0, C#, APIs, PHP, Html5, Css3 & JS**.
-
-- 📫 How to reach me **leonardosousa60.profissional@gmail.com**.
   
 <h2 align="center">🙋‍&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;🙋‍</h2>
+  <img align="left" width="220px" height="180px" src="./images/who-are-you.gif" alt="anime coding">
+<br><br>
+<p align="center">
 <div>
   <p>
     <a href="https://www.instagram.com/lleo_smz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -101,4 +104,3 @@
 ## <br />🐍 Snake
 
 ![snake gif](https://github.com/leoszm/leoszm/blob/output/github-contribution-grid-snake.svg)
-
