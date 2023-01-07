@@ -8,8 +8,9 @@
 <p align="center">
   <img width="300" src="https://profile-counter.glitch.me/leoszm/count.svg" />
  <p/>
- 
-<h2 align="center">📋&ensp; <i>G I T H U B &nbsp &nbsp A N A L Y T I C S</i> &ensp;📋</h2>
+<h2 align="center">
+<details open>
+<summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</summary>
 <br>
 <div align="center">
  <img align="center" width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=leoszm&theme=tokyo-night&count_private=true&hide_border=true">
@@ -21,7 +22,8 @@
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=leoszm&theme=sea&hide_border=true&background=0D1117&sideNums=00BFBF&currStreakNum=00BFBF&ring=31DD37&fire=2DFF15&sideLabels=79FFFA&dates=FFFFFF&currStreakLabel=79FFFA&stroke=2B53C9" />
 </p>
-
+</details>
+</div>
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ</i> &ensp;🛠️</h2>
 <div>
   <p>
@@ -90,4 +92,4 @@
 ## <br />🐍 Snake
 
 ![snake gif](https://github.com/leoszm/leoszm/blob/output/github-contribution-grid-snake.svg)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer" />
+
