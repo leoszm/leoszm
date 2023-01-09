@@ -43,12 +43,12 @@
 <img src="https://streak-stats.demolab.com?user=leoszm&theme=sea&hide_border=true&background=0D1117&sideNums=00BFBF&currStreakNum=00BFBF&ring=31DD37&fire=2DFF15&sideLabels=79FFFA&dates=FFFFFF&currStreakLabel=79FFFA&stroke=2B53C9" />
 </p>
 </details>
-</div>
+</h2>
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ</i> &ensp;🛠️</h2>
 <div>
   <table>
     <th>
-      <p align="center center">
+      <p align="center">
         <p align="center">💻&ensp; <i>L a n g u a g e s</i> &ensp;💻</p>
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> 
@@ -77,7 +77,7 @@
   
 <h2 align="center">🙋‍&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;🙋‍</h2>
   <img align="left" width="220px" height="180px" src="./images/who-are-you.gif" alt="anime coding">
-<br><br>
+<br>
 <p align="center">
 <div>
   <p>
