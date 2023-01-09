@@ -28,22 +28,7 @@
 <p align="center">
   <img width="300" src="https://profile-counter.glitch.me/leoszm/count.svg" />
  <p/>
-<h2 align="center">
-<details open>
-<summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</summary>
-<br>
-<div align="center">
- <img align="center" width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=leoszm&theme=tokyo-night&count_private=true&hide_border=true">
- <br>
- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leoszm&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoszm&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-</br>
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=leoszm&theme=sea&hide_border=true&background=0D1117&sideNums=00BFBF&currStreakNum=00BFBF&ring=31DD37&fire=2DFF15&sideLabels=79FFFA&dates=FFFFFF&currStreakLabel=79FFFA&stroke=2B53C9" />
-</p>
-</details>
-</h2>
+
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ</i> &ensp;🛠️</h2>
 <div>
   <table>
@@ -77,18 +62,35 @@
   
 <h2 align="center">🙋‍&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;🙋‍</h2>
   <img align="left" width="220px" height="180px" src="./images/who-are-you.gif" alt="anime coding">
-<br>
-<p align="center">
 <div>
-  <p>
+  <p align="center">
+  <br>
     <a href="https://www.instagram.com/lleo_smz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:leonardosousa60.profissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/leoszm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://stackoverflow.com/users/20460025/leoszm"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white"><p/>
+    <a href="https://stackoverflow.com/users/20460025/leoszm"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white"><br><br><p/>
   <div/>
-     
-## ☕ Do you want Coffee? (* Please, do it listening jazz~~) <br>
- 
+<h2></h2>
+<h2 align="center">
+<details open>
+<summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</summary>
+<br>
+<div align="center">
+ <img align="center" width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=leoszm&theme=tokyo-night&count_private=true&hide_border=true">
+ <br>
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leoszm&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoszm&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+</br>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=leoszm&theme=sea&hide_border=true&background=0D1117&sideNums=00BFBF&currStreakNum=00BFBF&ring=31DD37&fire=2DFF15&sideLabels=79FFFA&dates=FFFFFF&currStreakLabel=79FFFA&stroke=2B53C9" />
+</p>
+</details>
+</h2>
+
+
+<details open>
+<summary><h2 align="center">☕&ensp; <i>Do you want Coffee? (* Please, do it listening jazz~~)</i> &ensp;☕</summary></h2> 
  <img align="right" alt="coffee" width="400" src="https://media.tenor.com/XpKPhpDLNXUAAAAC/coffee-anime.gif" />
   
 - Heat the water, the ideal point to turn off the fire is at the stage of small bubbles (90ºC to 92ºC or 194°F to 197°F). If you can use mineral water, even better.
@@ -100,7 +102,12 @@
 - Start pouring the hot water into the center of the filter and make circular motions. This will help stir the coffee grounds and<br>eliminate the need to stir with a spoon.
 
 <h3 align="center">☕~After draining completely your coffee is ready!~🌙<h3/>
-  
-## <br />🐍 Snake
+</details>
+<h2></h2>
+<details open>
+<summary><h2 align="center">🐍&ensp; <i>Snake</i> &ensp;🐍</summary></h2> 
 
 ![snake gif](https://github.com/leoszm/leoszm/blob/output/github-contribution-grid-snake.svg)
+
+</details>
+<h2></h2>
