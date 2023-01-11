@@ -5,7 +5,7 @@
 <h2 align="center">📚&ensp; <i>A B O U T &nbsp M E</i> &ensp;📚</h2>
 
 <a href="https://app.daily.dev/Leoszm"> <img align='right' src="https://api.daily.dev/devcards/e90a0c681151496590a67f7c8a244de1.png?r=pnk" width="350" alt="Leonardo Souza Martins's Dev Card"/></a>
-
+<br>
 - 🤵 I'm web developer and Bachelor's Degree in Computer Science.
 
 - 🔭 I’m currently working at [City Hall of Santo André, SP, BRAZIL](https://web.santoandre.sp.gov.br).
