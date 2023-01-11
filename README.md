@@ -1,5 +1,5 @@
 <p align="center"><img width="90%" alt="Coding" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-anime-lofi-1.gif"/><p/>
-
+ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+Is+Leonardo+Souza+Martins;I'm+22+Years+Old;I'm+From+Santo+André,+SP;I'm+Web+Developer+and+Bachelor's+Degree+In+Computer+Science;Welcome+And+Enjoy!+:%29)](https://git.io/typing-svg)
 <div>
 <h2 align="center">📚&ensp; <i>A B O U T &nbsp M E</i> &ensp;📚</h2>
@@ -79,16 +79,20 @@
 <details open>
 <summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</summary>
 <br>
-<div align="center">
- <img align="center" width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=leoszm&theme=tokyo-night&count_private=true&hide_border=true">
- <br>
- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leoszm&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoszm&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-</br>
-<p align="center">
+ <p align="center">
 <img src="https://streak-stats.demolab.com?user=leoszm&theme=sea&hide_border=true&background=0D1117&sideNums=00BFBF&currStreakNum=00BFBF&ring=31DD37&fire=2DFF15&sideLabels=79FFFA&dates=FFFFFF&currStreakLabel=79FFFA&stroke=2B53C9" />
 </p>
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leoszm&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoszm&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+ <img src="https://github-profile-trophy.vercel.app/?username=leoszm&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> 
+
+<div align="center">
+ <img align="center" width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=leoszm&theme=tokyo-night&count_private=true&hide_border=true">
+ <br>
+
+</div>
+</br>
+
 </details>
 </h2>
 
