@@ -1,4 +1,4 @@
-<p align="center"><img width="90%" alt="Coding" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-anime-lofi-1.gif"/><p/>
+<p align="center"><img width="100%" alt="Coding" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-anime-lofi-1.gif"/><p/>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+Is+Leonardo+Souza+Martins;I'm+22+Years+Old;I'm+From+Santo+André,+SP;I'm+Web+Developer+and+Bachelor's+Degree+In+Computer+Science;Welcome+And+Enjoy!+:%29)](https://git.io/typing-svg)
 <div>
