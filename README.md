@@ -1,10 +1,10 @@
 <p align="center"><img width="90%" alt="Coding" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-anime-lofi-1.gif"/><p/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+Is+Leonardo+Souza+Martins;I'm+22+Years+Old;I'm+From+Santo+André,+SP;I'm+Web+Developer+and+Bachelor's+Degree+In+Computer+Science;Welcome+And+Enjoy!+:%29)](https://git.io/typing-svg)
-
+<div>
 <h2 align="center">📚&ensp; <i>A B O U T &nbsp M E</i> &ensp;📚</h2>
 
-<img align="right" alt="Coding" width="430" src="https://media.tenor.com/FdkbSvSxI9MAAAAM/chilled-lamb-mienar.gif" />
+<a href="https://app.daily.dev/Leoszm"> <img align='right' src="https://api.daily.dev/devcards/e90a0c681151496590a67f7c8a244de1.png?r=pnk" width="350" alt="Leonardo Souza Martins's Dev Card"/></a>
 
 - 🤵 I'm web developer and Bachelor's Degree in Computer Science.
 
@@ -21,7 +21,11 @@
 - 💬 Ask me about **Aspnet Core with .Net 6.0, C#, APIs, PHP, Html5, Css3 & JS**.
 
 - 📫 How to reach me **leonardosousa60.profissional@gmail.com**.
+<br>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;<i>An ordinary traveler with an insatiable curiosity...</i>&ensp;</h3>
 
+</div>
+<br><br><br>
 <h2 align="center">🌎&ensp; <i>V I E W S</i> &ensp;🌎</h2>
 <br>
 
