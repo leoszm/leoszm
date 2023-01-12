@@ -65,15 +65,19 @@
 <div>
   
 <h2 align="center">🙋‍&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;🙋‍</h2>
-  <img align="left" width="220px" height="180px" src="./images/gifs/who-are-you.gif" alt="anime coding">
+<img align="left" width="310px" height="235px" src="./images/gifs/who-are-you.gif" alt="anime coding" />
 <div>
   <p align="center">
+  <br>
+  <br>
   <br>
     <a href="https://www.instagram.com/lleo_smz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:leonardosousa60.profissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/leoszm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://stackoverflow.com/users/20460025/leoszm"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white"><br><br><p/>
-  <div/>
+  </div>
+   </div>
+  <br><br><br><br><br><br>
 <h2></h2>
 <h2 align="center">
 <details open>
