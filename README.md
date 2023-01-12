@@ -91,8 +91,8 @@
 <table height="480px" width="350px">
   <tr>
     <td>
-    <a href="https://github.com/leoszm/leoszm" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leoszm&repo=leoszm&theme=tokyonight&hide_border=true">
+    <a href="https://github.com/leoszm/leoszm/" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leoszm&repo=leoszm&theme=tokyonight&hide_border=true" />
     </a>
     </td>
   </tr>
