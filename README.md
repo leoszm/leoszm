@@ -87,8 +87,8 @@
 <h2></h2>
 
 <h2 align="center">👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</h2>
-<img align="right" src="./images/gifs/cyberpunk.gif" height="480px" width="365px" alt="projects image">
-<table height="480px" width="365px">
+<img align="right" src="./images/gifs/cyberpunk.gif" height="480px" width="350px" alt="projects image">
+<table height="480px" width="350px">
   <tr>
     <td>
     <a href="https://github.com/leoszm/leoszm" target="_blank">
