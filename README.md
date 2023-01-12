@@ -65,7 +65,7 @@
 <div>
   
 <h2 align="center">🙋‍&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;🙋‍</h2>
-  <img align="left" width="220px" height="180px" src="./images/who-are-you.gif" alt="anime coding">
+  <img align="left" width="220px" height="180px" src="./images/gifs/who-are-you.gif" alt="anime coding">
 <div>
   <p align="center">
   <br>
