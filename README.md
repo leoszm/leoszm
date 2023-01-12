@@ -65,41 +65,60 @@
 <div>
   
 <h2 align="center">🙋‍&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;🙋‍</h2>
+<a>&nbsp;</a>
 <img align="left" width="310px" height="235px" src="./images/gifs/who-are-you.gif" alt="anime coding" />
 <div>
   <p align="center">
   <br>
-  <br>
-  <br>
     <a href="https://www.instagram.com/lleo_smz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:leonardosousa60.profissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/leoszm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://stackoverflow.com/users/20460025/leoszm"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white"><br><br><p/>
+    <p align="center">
+    <a href="https://github.com/leoszm" target="_blank"><img height="55" width="55" src="./images/buttons/githublogo.png" alt=""/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a href="mailto:leonardosousa60.profissional@gmail.com" target="_blank"><img height="55" width="55" src="./images/buttons/gmailogo.png" alt=""/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a href="https://github.com/leoszm" target="_blank"><img height="55" width="55" src="./images/buttons/discordlogo.png" alt=""/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    </p>
+    <p align="center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <strong><i>LeoMrt#6452</i></strong></p>
+    </p>
   </div>
    </div>
-  <br><br><br><br><br><br>
+  <br>
 <h2></h2>
-<h2 align="center">
+
+<h2 align="center">👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</h2>
+<img align="right" src="./images/gifs/cyberpunk.gif" height="495px" width="365px" alt="projects image">
+<table height="495px" width="365px">
+  <tr>
+    <td>
+    <a href="https://github.com/leoszm/leoszm" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leoszm&repo=leoszm&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+</table>
+<br>
+
+<h2 align="center"><img src="./images/gifs/borderseperator.gif">
 <details open>
 <summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</summary>
 <br>
  <p align="center">
 <img src="https://streak-stats.demolab.com?user=leoszm&theme=sea&hide_border=true&background=0D1117&sideNums=00BFBF&currStreakNum=00BFBF&ring=31DD37&fire=2DFF15&sideLabels=79FFFA&dates=FFFFFF&currStreakLabel=79FFFA&stroke=2B53C9" />
 </p>
- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leoszm&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoszm&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
- <img src="https://github-profile-trophy.vercel.app/?username=leoszm&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> 
+ <img width="49%" height="195px" src="https://github-readme-stats-i66v.vercel.app/api?username=leoszm&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoszm&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+ <img src="https://github-profile-trophy.vercel.app/?username=leoszm&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  />
 
 <div align="center">
- <img align="center" width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=leoszm&theme=tokyo-night&count_private=true&hide_border=true">
+ <img align="center" width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=leoszm&custom_title=leoszm's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true">
  <br>
-
+<p align="center">
+<img width="100%" src="./images/gifs/loficity.gif" alt="Lofi Nightlife city scene" />
+</p>
 </div>
-</br>
-
 </details>
-</h2>
-
+<img src="./images/gifs/borderseperator.gif"></h2>
 
 <details open>
 <summary><h2 align="center">☕&ensp; <i>Do you want Coffee? (* Please, do it listening jazz~~)</i> &ensp;☕</summary></h2> 
