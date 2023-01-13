@@ -87,8 +87,8 @@
 <h2></h2>
 
 <h2 align="center">👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</h2>
-<img align="right" src="./images/gifs/cyberpunk.gif" height="480px" width="350px" alt="projects image">
-<table height="480px" width="350px">
+<img align="right" src="./images/gifs/cyberpunk.gif" height="505px" width="395px" alt="projects image">
+<table height="495px" width="505px">
   <tr>
     <td>
     <a href="https://github.com/leoszm/leoszm/" target="_blank">
@@ -107,7 +107,7 @@
  <img src="https://streak-stats.demolab.com?    user=leoszm&theme=highcontrast&hide_border=true&border_radius=0&ring=31DD37&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" />
   </p>
  <img width="49%" height="195px" src="https://github-readme-stats-i66v.vercel.app/api?username=leoszm&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" /> 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoszm&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoszm&layout=compact&hide_border=true&title_color=0079fa&text_color=0079fa&bg_color=000000" />
  <img src="https://github-profile-trophy.vercel.app/?username=leoszm&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  />
 
 <div align="center">
