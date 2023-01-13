@@ -104,14 +104,14 @@
 <summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</summary>
 <br>
  <p align="center">
- <img src="https://streak-stats.demolab.com?user=leoszm&theme=dark&hide_border=true&border_radius=4.8&background=000000&stroke=EE26F9&ring=270786&fire=0EAFDD&currStreakNum=D626E7&sideNums=2FD8E7&currStreakLabel=410EDD&sideLabels=2049DD&dates=19C0DD" />
+ <img src="https://streak-stats.demolab.com?user=leoszm&theme=dark&hide_border=true&border_radius=4.8&background=000000&stroke=EE26F9&ring=270786&fire=0EAFDD&currStreakNum=D626E7&sideNums=2FD8E7&currStreakLabel=410EDD&sideLabels=19C0DD&dates=19C0DD" />
   </p>
- <img width="49%" height="195px" src="https://github-readme-stats-i66v.vercel.app/api?username=leoszm&show_icons=true&title_color=0079fa&text_color=D626E7&iconcolor=2FD8E7&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" /> 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoszm&layout=compact&hide_border=true&title_color=2049DD&text_color=0079fa&bg_color=000000" />
+ <img width="49%" height="195px" src="https://github-readme-stats-i66v.vercel.app/api?username=leoszm&show_icons=true&title_color=0079fa&text_color=2FD8E7&iconcolor=2FD8E7&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoszm&layout=compact&hide_border=true&title_color=2049DD&text_color=2FD8E7&bg_color=000000" />
  <img src="https://github-profile-trophy.vercel.app/?username=leoszm&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  />
 
 <div align="center">
- <img align="center" width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=leoszm&custom_title=leoszm's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true">
+ <img align="center" width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=leoszm&custom_title=leoszm's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=D626E7&area=true&hide_border=true">
  <br>
 <p align="center">
 <img width="100%" src="./images/gifs/loficity.gif" alt="Lofi Nightlife city scene" />
