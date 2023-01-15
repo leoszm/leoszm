@@ -120,8 +120,8 @@
 </details>
 <img src="./images/gifs/borderseperator.gif"></h2>
 
-<details open>
-<summary><h2 align="center">☕&ensp; <i>Do you want Coffee? (* Please, do it listening jazz~~)</i> &ensp;☕</summary></h2> 
+<details close>
+<summary><h2 align="center"></h2>☕&ensp; <i>Do you want Coffee? (* Please, do it listening jazz~~)</i> &ensp;☕</summary></h2> 
  <img align="right" alt="coffee" width="400" src="https://media.tenor.com/XpKPhpDLNXUAAAAC/coffee-anime.gif" />
   
 - Heat the water, the ideal point to turn off the fire is at the stage of small bubbles (90ºC to 92ºC or 194°F to 197°F). If you can use mineral water, even better.
@@ -135,7 +135,7 @@
 <h3 align="center">☕~After draining completely your coffee is ready!~🌙<h3/>
 </details>
 <h2></h2>
-<details open>
+<details close>
 <summary><h2 align="center">🐍&ensp; <i>Snake</i> &ensp;🐍</summary></h2> 
 
 ![snake gif](https://github.com/leoszm/leoszm/blob/output/github-contribution-grid-snake.svg)
