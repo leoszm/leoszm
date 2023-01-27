@@ -90,10 +90,45 @@
   <tr>
     <td>
     <a href="https://github.com/leoszm/leoszm/" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leoszm&repo=Conhecimento-em-Ferramentas&theme=tokyonight&hide_border=true" />
+    </a>
+    </td>
+  </tr>
+ <tr>
+    <td>
+    <a href="https://github.com/leoszm/Conhecimento_em_Ferramentas" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leoszm&repo=leoszm&theme=tokyonight&hide_border=true" />
     </a>
     </td>
   </tr>
+  <tr>
+    <td>
+    <a href=" https://github.com/leoszm/Aprendizado-Csharp" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leoszm&repo=Aprendizado-Csharp&theme=tokyonight&hide_border=true" />
+    </a>
+    </td>
+  </tr>
+   <tr>
+    <td>
+    <a href="https://github.com/leoszm/Ensino-aspnet" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leoszm&repo=Ensino-aspnet&theme=tokyonight&hide_border=true" />
+    </a>
+    </td>
+  </tr>
+   <tr>
+    <td>
+    <a href="https://github.com/leoszm/Digital-Watch-Js" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leoszm&repo=Digital-Watch-Js&theme=tokyonight&hide_border=true" />
+    </a>
+    </td>
+  </tr>
+   <tr>
+    <td>
+    <a href=" https://github.com/leoszm/Consumo-API-NASA" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leoszm&repo=Consumo-API-NASA&theme=tokyonight&hide_border=true" />
+    </a>
+    </td>
+ </tr>
 </table>
 <br>
 
