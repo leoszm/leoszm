@@ -24,12 +24,6 @@
 
 </div>
 <br><br><br>
-<h2 align="center">🌎&ensp; <i>V I E W S</i> &ensp;🌎</h2>
-<br>
-
-<p align="center">
-  <img width="300" src="https://profile-counter.glitch.me/leoszm/count.svg" />
- <p/>
 
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ</i> &ensp;🛠️</h2>
 <div>
@@ -61,7 +55,7 @@
     </th>
   </table>
 <div>
-  
+ <h2></h2>
 <h2 align="center">🙋‍&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;🙋‍</h2>
 <a>&nbsp;</a>
 <img align="left" width="310px" height="235px" src="./images/gifs/who-are-you.gif" alt="anime coding" />
@@ -135,6 +129,7 @@
 <h2 align="center"><img src="./images/gifs/borderseperator.gif">
 <details open>
 <summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</summary>
+ <h2></h2>
 <br>
  <p align="center">
  <img src="https://streak-stats.demolab.com?user=leoszm&theme=dark&hide_border=true&border_radius=4.8&background=000000&stroke=0079fa&ring=270786&fire=0EAFDD&currStreakNum=2FD8E7&sideNums=2FD8E7&currStreakLabel=0079fa&sideLabels=2FD8E7&dates=0079fa" />
@@ -152,7 +147,17 @@
 </div>
 </details>
 <img src="./images/gifs/borderseperator.gif"></h2>
-
+<h2 align="center">
+<details open>
+<summary>🌎&ensp; <i>V I E W S</i> &ensp;🌎</summary>
+ <h2></h2>
+ <br>
+<p align="center">
+  <img width="300" src="https://profile-counter.glitch.me/leoszm/count.svg" />
+ </p>
+ </details>
+ <img src="./images/gifs/borderseperator.gif"></h2>
+ 
 <details close>
 <summary><h2 align="center">☕&ensp; <i>Do you want Coffee? (* Please, do it listening jazz~~)</i> &ensp;☕</summary></h2> 
  <img align="right" alt="coffee" width="400" src="https://media.tenor.com/XpKPhpDLNXUAAAAC/coffee-anime.gif" />
