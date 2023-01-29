@@ -90,7 +90,7 @@
   </tr>
  <tr>
     <td>
-    <a href="https://github.com/leoszm/Conhecimento_em_Ferramentas" target="_blank">
+    <a href="https://github.com/leoszm/Conhecimento-em-Ferramentas" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leoszm&repo=Conhecimento-em-Ferramentas&theme=tokyonight&hide_border=true" />
     </a>
     </td>
