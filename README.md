@@ -97,7 +97,7 @@
   </tr>
   <tr>
     <td>
-    <a href=" https://github.com/leoszm/Aprendizado-Csharp" target="_blank">
+    <a href="https://github.com/leoszm/Aprendizado-Csharp" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leoszm&repo=Aprendizado-Csharp&theme=tokyonight&hide_border=true" />
     </a>
     </td>
