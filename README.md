@@ -82,6 +82,30 @@
 <img align="right" src="./images/gifs/cyberpunk.gif" height="505px" width="395px" alt="projects image">
 <table height="495px" width="505px">
   <tr>
+  <th>
+  Professional Projects
+  </th>
+  </tr>
+     <tr>
+    <td>
+    <a href="https://github.com/leoszm/Digital-Watch-Js" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leoszm&repo=Digital-Watch-Js&theme=tokyonight&hide_border=true" />
+    </a>
+    </td>
+  </tr>
+     <tr>
+    <td>
+    <a href="https://github.com/leoszm/Consumo-API-NASA" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leoszm&repo=Consumo-API-NASA&theme=tokyonight&hide_border=true" />
+    </a>
+    </td>
+ </tr>
+  <tr>
+  <th>
+  Learning projects
+  </th>
+  </tr>
+  <tr>
     <td>
     <a href="https://github.com/leoszm/leoszm/" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leoszm&repo=leoszm&theme=tokyonight&hide_border=true" />
@@ -109,20 +133,6 @@
     </a>
     </td>
   </tr>
-   <tr>
-    <td>
-    <a href="https://github.com/leoszm/Digital-Watch-Js" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leoszm&repo=Digital-Watch-Js&theme=tokyonight&hide_border=true" />
-    </a>
-    </td>
-  </tr>
-   <tr>
-    <td>
-    <a href="https://github.com/leoszm/Consumo-API-NASA" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leoszm&repo=Consumo-API-NASA&theme=tokyonight&hide_border=true" />
-    </a>
-    </td>
- </tr>
 </table>
 <br>
 
