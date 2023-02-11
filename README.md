@@ -156,8 +156,8 @@
 </p>
 </div>
 </details>
-<img src="./images/gifs/borderseperator.gif"></h2>
 <h2 align="center">
+ <img src="./images/gifs/borderseperator.gif"></h2>
 <details open>
 <summary>🌎&ensp; <i>V I E W S</i> &ensp;🌎</summary>
  <h2></h2>
