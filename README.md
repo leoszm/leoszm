@@ -12,7 +12,7 @@
 
 - 🤖 I like to learn new things and ideas, technologies and meet new people!
 
-- 🌱 I’m currently learning **Aspnet Core MVC .Net 6.0 & C#, APIS**.
+- 🌱 I’m currently learning **Aspnet Core MVC .Net 6.0 & C#, APIS<br>Ajax, jQuery and Javascript**.
 
 - 👨‍💻 All of my projects are available at [leoszm](https://github.com/leoszm?tab=repositories).
 
@@ -64,7 +64,8 @@
   <br>
     <a href="https://www.instagram.com/lleo_smz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/leoszm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://stackoverflow.com/users/20460025/leoszm"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white"><br><br><p/>
+    <a href="https://stackoverflow.com/users/20460025/leoszm"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white">
+     <a href="https://dev.to/leoszm" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"/></p><br><br>
     <p align="center">
     <a href="https://github.com/leoszm" target="_blank"><img height="55" width="55" src="./images/buttons/githublogo.png" alt=""/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
     <a href="mailto:leonardosousa60.profissional@gmail.com" target="_blank"><img height="55" width="55" src="./images/buttons/gmailogo.png" alt=""/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
