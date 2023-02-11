@@ -136,10 +136,9 @@
 </table>
 <br>
 
-<h2 align="center"><img src="./images/gifs/borderseperator.gif">
+<h2 align="center" style="display: inline-block"><img src="./images/gifs/borderseperator.gif">
 <details open>
 <summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</summary>
- <h2></h2>
 <br>
  <p align="center">
  <img src="https://streak-stats.demolab.com?user=leoszm&theme=dark&hide_border=true&border_radius=4.8&background=000000&stroke=0079fa&ring=270786&fire=0EAFDD&currStreakNum=2FD8E7&sideNums=2FD8E7&currStreakLabel=0079fa&sideLabels=2FD8E7&dates=0079fa" />
@@ -156,17 +155,17 @@
 </p>
 </div>
 </details>
-<h2 align="center">
- <img src="./images/gifs/borderseperator.gif"></h2>
+<img src="./images/gifs/borderseperator.gif"></h2>
+<h2 align="center" style="display: inline-block">
 <details open>
 <summary>🌎&ensp; <i>V I E W S</i> &ensp;🌎</summary>
- <h2></h2>
  <br>
 <p align="center">
   <img width="300" src="https://profile-counter.glitch.me/leoszm/count.svg" />
  </p>
  </details>
- <img src="./images/gifs/borderseperator.gif"></h2>
+ <img src="./images/gifs/borderseperator.gif"/>
+</h2>
  
 <details close>
 <summary><h2 align="center">☕&ensp; <i>Do you want Coffee? (* Please, do it listening jazz~~)</i> &ensp;☕</summary></h2> 
