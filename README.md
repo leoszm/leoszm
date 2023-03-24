@@ -2,9 +2,9 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Leonardo+Souza+Martins;I'm+22+Years+Old;I'm+From+Santo+André,+SP+-+Brazil;I+Work+in+Web+Development+with+.Net;I'm+Bachelor's+Degree+in+Computer+Science;Welcome+And+Enjoy!+:%29)](https://git.io/typing-svg)
 <div>
-<h2 align="center">📚&ensp; <i>A B O U T &nbsp M E</i> &ensp;📚</h2>
+<h2 align="center">📚&ensp; <i>A B O U T &nbsp; M E</i> &ensp;📚</h2>
 
-<a href="https://app.daily.dev/Leoszm"> <img align='right' src="https://app.daily.dev/Leoszm"><img src="https://api.daily.dev/devcards/e90a0c681151496590a67f7c8a244de1.png?r=16l" width="345" alt="Leonardo Souza Martins's Dev Card"/></a>
+<a href="https://app.daily.dev/Leoszm"><img align="right" src="https://api.daily.dev/devcards/e90a0c681151496590a67f7c8a244de1.png?r=ybl" width="345" alt="Leonardo Souza Martins's Dev Card"/></a>
 <br>
 - 🤵 I'm web developer and Bachelor's Degree in Computer Science.
 
