@@ -12,11 +12,11 @@
 
 - 🤖 I like to learn new things and ideas, technologies and meet new people!
 
-- 🌱 I’m currently learning **Aspnet Core MVC .Net 6.0 & C#, APIS Ajax, jQuery and Javascript**.
+- 🌱 I’m currently learning **Aspnet Core MVC .Net 6.0 & C#, APIS Ajax, jQuery <br>and Javascript**.
 
 - 👨‍💻 All of my projects are available at [leoszm](https://github.com/leoszm?tab=repositories).
 
-- 💬 Ask me about **Aspnet Core with .Net 6.0, C#, APIs, PHP, Html5, Css3 & JS**.
+- 💬 Ask me about **Aspnet Core with .Net 6.0, C#, APIs, PHP, Html5,<br> Css3 & JS**.
 
 - 📫 How to reach me **leonardosousa60.profissional@gmail.com**.
 <br>
