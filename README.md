@@ -12,7 +12,7 @@
 
 - 🤖 I like to learn new things and ideas, technologies and meet new people!
 
-- 🌱 I’m currently learning **Aspnet Core MVC .Net 6.0 & C#, APIS<br>Ajax, jQuery and Javascript**.
+- 🌱 I’m currently learning **Aspnet Core MVC .Net 6.0 & C#, APIS Ajax, jQuery and Javascript**.
 
 - 👨‍💻 All of my projects are available at [leoszm](https://github.com/leoszm?tab=repositories).
 
