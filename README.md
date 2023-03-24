@@ -1,4 +1,4 @@
-<p align="center"><img width="100%" alt="Coding" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-anime-lofi-1.gif"/><p/>
+<p align="center"><img width="90%" alt="Coding" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-anime-lofi-1.gif"/><p/>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Leonardo+Souza+Martins;I'm+22+Years+Old;I'm+From+Santo+André,+SP+-+Brazil;I+Work+in+Web+Development+with+.Net;I'm+Bachelor's+Degree+in+Computer+Science;Welcome+And+Enjoy!+:%29)](https://git.io/typing-svg)
 <div>
@@ -138,7 +138,7 @@
 <br>
 
 <h2 align="center" style="display: inline-block"><img src="./images/gifs/borderseperator.gif">
-<details open>
+<details close>
 <summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</summary>
 <br>
  <p align="center">
@@ -158,7 +158,7 @@
 </details>
 <img src="./images/gifs/borderseperator.gif"></h2>
 <h2 align="center" style="display: inline-block">
-<details open>
+<details close>
 <summary>🌎&ensp; <i>V I E W S</i> &ensp;🌎</summary>
  <br>
 <p align="center">
