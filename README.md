@@ -171,18 +171,19 @@
 
 <details close align="center">
 <summary><h2>☕&ensp; <i>Do you want Coffee? (* Please, do it listening jazz~~)</i> &ensp;☕</h2></summary>
- <img align="right" alt="coffee" width="400" src="https://media.tenor.com/XpKPhpDLNXUAAAAC/coffee-anime.gif" />
-<ul>
+ <img align="right" alt="coffee" width="500" src="https://media.tenor.com/XpKPhpDLNXUAAAAC/coffee-anime.gif" />
+<ul align="left">
+  </br>
 <li>Heat the water, the ideal point to turn off the fire is at the stage of small bubbles (90ºC to 92ºC or 194°F to 197°F). If you can use mineral water, even better.
 </li>
 <li> Blanch the cloth strainer with the hot water (hint: if you boiled the water, don't worry: it will reach the ideal temperature while you scald the strainer).</li>
 <li> Put the coffee grounds in the filter.
 </li>
-<li>
-- Start pouring the hot water into the center of the filter and make circular motions. This will help stir the coffee grounds and<br>eliminate the need to stir with a spoon.
+<li>Start pouring the hot water into the center of the filter and make circular motions. This will help stir the coffee grounds and eliminate the need to stir with a spoon.
 </li>
-<h3 align="center">☕~After draining completely your coffee is ready!~🌙<h3/>
 </ul>
+  </br>
+<h3 align="center">☕~After draining completely your coffee is ready!~🌙<h3/>
 </details>
 <h2></h2>
 <details close align="center">
