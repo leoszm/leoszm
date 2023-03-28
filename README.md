@@ -171,7 +171,7 @@
 
 <details close align="center">
 <summary><h2>☕&ensp; <i>Do you want Coffee? (* Please, do it listening jazz~~)</i> &ensp;☕</h2></summary>
- <img align="right" alt="coffee" width="450" src="https://media.tenor.com/XpKPhpDLNXUAAAAC/coffee-anime.gif" />
+ <img align="right" alt="coffee" width="400" src="https://media.tenor.com/XpKPhpDLNXUAAAAC/coffee-anime.gif" />
 <ul align="left">
   </br>
 <li>Heat the water, the ideal point to turn off the fire is at the stage of small bubbles (90ºC to 92ºC or 194°F to 197°F). If you can use mineral water, even better.
