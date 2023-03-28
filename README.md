@@ -23,7 +23,7 @@
 </div>
 <p align="center"><img width="90%" alt="Coding" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-anime-lofi-1.gif"/><p/>
 <br><br><br>
-
+<h2></h2>
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ</i> &ensp;🛠️</h2>
 <div>
   <table>
@@ -77,8 +77,10 @@
    </div>
   <br>
 <h2></h2>
-
-<h2 align="center">👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</h2>
+<h2 align="center" style="display: inline-block">
+<details close>
+<summary>👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</summary>
+</br>
 <img align="right" src="./images/gifs/cyberpunk.gif" height="505px" width="395px" alt="projects image">
 <table height="495px" width="505px">
   <tr>
@@ -134,9 +136,9 @@
     </td>
   </tr>
 </table>
-<br>
-
-<h2 align="center" style="display: inline-block"><img src="./images/gifs/borderseperator.gif">
+</details>
+</h2>
+<h2 align="center" style="display: inline-block"> <!-- <img src="./images/gifs/borderseperator.gif"> -->
 <details close>
 <summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</summary>
 <br>
@@ -155,7 +157,7 @@
 </p>
 </div>
 </details>
-<img src="./images/gifs/borderseperator.gif"></h2>
+<!-- <img src="./images/gifs/borderseperator.gif"> --></h2>
 <h2 align="center" style="display: inline-block">
 <details close>
 <summary>🌎&ensp; <i>V I E W S</i> &ensp;🌎</summary>
@@ -164,11 +166,11 @@
   <img width="300" src="https://profile-counter.glitch.me/leoszm/count.svg" />
  </p>
  </details>
- <img src="./images/gifs/borderseperator.gif"/>
+ <!-- <img src="./images/gifs/borderseperator.gif"/> -->
 </h2>
- 
-<details close>
-<summary><h2 align="center">☕&ensp; <i>Do you want Coffee? (* Please, do it listening jazz~~)</i> &ensp;☕</summary></h2> 
+
+<details close align="center">
+<summary><h2>☕&ensp; <i>Do you want Coffee? (* Please, do it listening jazz~~)</i> &ensp;☕</h2></summary>
  <img align="right" alt="coffee" width="400" src="https://media.tenor.com/XpKPhpDLNXUAAAAC/coffee-anime.gif" />
   
 - Heat the water, the ideal point to turn off the fire is at the stage of small bubbles (90ºC to 92ºC or 194°F to 197°F). If you can use mineral water, even better.
@@ -182,10 +184,9 @@
 <h3 align="center">☕~After draining completely your coffee is ready!~🌙<h3/>
 </details>
 <h2></h2>
-<details close>
+<details close align="center">
 <summary><h2 align="center">🐍&ensp; <i>Snake</i> &ensp;🐍</summary></h2> 
 
 ![snake gif](https://github.com/leoszm/leoszm/blob/output/github-contribution-grid-snake.svg)
 
 </details>
-<h2></h2>
