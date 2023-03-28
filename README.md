@@ -192,3 +192,6 @@
 ![snake gif](https://github.com/leoszm/leoszm/blob/output/github-contribution-grid-snake.svg)
 
 </details>
+<div align="center">
+  <img src="https://i.kym-cdn.com/photos/images/original/002/429/796/96c.gif" width="100" /><img src="https://img.shields.io/cocoapods/l/m?color=00FFFF&label=License&style=for-the-badge" width="200" />
+</div>
