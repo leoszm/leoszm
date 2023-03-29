@@ -79,7 +79,7 @@
 <h2></h2>
 <img src="./images/gifs/borderseperator.gif">
 <details close>
-  <summary><h3>&ensp;More&ensp;</h3></summary>
+  <summary><img width="45" src="./images/arrowdown.jpg"><h3>&ensp;More&ensp;</h3></summary>
 <h2 align="center" style="display: inline-block">
 <details close>
 <summary>👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</summary>
