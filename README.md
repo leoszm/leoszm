@@ -77,6 +77,9 @@
    </div>
   <br>
 <h2></h2>
+<img src="./images/gifs/borderseperator.gif">
+<details close>
+  <summary><h3>&ensp;More&ensp;</h3></summary>
 <h2 align="center" style="display: inline-block">
 <details close>
 <summary>👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</summary>
@@ -192,7 +195,8 @@
 ![snake gif](https://github.com/leoszm/leoszm/blob/output/github-contribution-grid-snake.svg)
 
 </details>
-<h2></h2>
+  </details>
+<img src="./images/gifs/borderseperator.gif">
 <div align="center">
   <img src="https://i.kym-cdn.com/photos/images/original/002/429/796/96c.gif" width="75" /><img src="https://img.shields.io/cocoapods/l/m?color=00FFFF&label=License&style=for-the-badge" width="200" />
 </div>
