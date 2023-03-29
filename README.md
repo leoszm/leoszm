@@ -78,7 +78,7 @@
   <br>
 <img src="./images/gifs/borderseperator.gif">
 <details close>
-  <summary align="center"><h2>&ensp;<strong><i>M O R E<i></strong>&ensp;</h2></summary>
+  <summary align="center"><h2>&ensp;<strong>🔥&ensp;<i>M O R E<i>&ensp;🔥</strong>&ensp;</h2></summary>
   </br>
   <h2></h2>
 <h2 align="center" style="display: inline-block">
