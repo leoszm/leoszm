@@ -72,8 +72,7 @@
     <a href="mailto:leonardosousa60.profissional@gmail.com" target="_blank"><img height="55" width="55" src="./images/buttons/gmailogo.png" alt=""/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
     <a href="https://discordapp.com/users/702567755618189404" target="_blank"><img height="55" width="55" src="./images/buttons/discordlogo.png" alt=""/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
     </p>
-    <p align="center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <strong><i>LeoMrt#6452</i></strong></p>
+    <p align="center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><i>LeoMrt#6452</i></strong></p>
     </p>
   </div>
    </div>
