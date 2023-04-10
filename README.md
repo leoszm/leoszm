@@ -202,5 +202,5 @@
   </details>
 <img src="./images/gifs/borderseperator.gif">
 <div align="center">
-  <img src="https://i.kym-cdn.com/photos/images/original/002/429/796/96c.gif" width="75" /><img src="https://img.shields.io/cocoapods/l/m?color=00FFFF&label=License&style=for-the-badge" width="200" /> <!--<img src="./images/girl_dancing_subaru.gif" width="75" /> -->
+  <img src="https://i.kym-cdn.com/photos/images/original/002/429/796/96c.gif" width="75" /><img src="./images/buttons/licence_mit_image.svg" width="200" /> <!--<img src="./images/girl_dancing_subaru.gif" width="75" /> -->
 </div>
