@@ -21,8 +21,10 @@
 <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;<i>An ordinary traveler with an insatiable curiosity...</i>&ensp;</h3>
 
 </div>
+<br>
+<h2></h2>
 <p align="center"><img width="90%" alt="Coding" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-anime-lofi-1.gif"/><p/>
-<br><br><br>
+<br>
 <h2></h2>
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ</i> &ensp;🛠️</h2>
 <div>
