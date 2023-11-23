@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [leoszm](https://github.com/leoszm?tab=repositories).
 
-- 💬 Ask me about **Aspnet Core with .Net 6.0, C#, APIs, PHP, Html5,<br> Css3 & JS**.
+- 💬 Ask me about **Aspnet Core with .Net 6.0, C#, APIs, PHP, Html5,<br> Css3, JS, jQuery plugins**.
 
 - 📫 How to reach me **leonardosousa60.profissional@gmail.com**.
 <br>
