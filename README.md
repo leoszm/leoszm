@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [leoszm](https://github.com/leoszm?tab=repositories).
 
-- 💬 Ask me about **Aspnet Core with .Net 6.0, C#, APIs, PHP, Html5,<br> Css3, JS, jQuery plugins**.
+- 💬 Ask me about **Aspnet Core with .Net 8.0, C#, React, TypeScript, <br>APIs, Html5, Css3, JS, jQuery plugins**.
 
 - 📫 How to reach me **leonardosousa60.profissional@gmail.com**.
 <br>
@@ -37,8 +37,7 @@
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
         <img src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
         <img src= "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-        <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-        <!--<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />-->
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
         <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
