@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [leoszm](https://github.com/leoszm?tab=repositories).
 
-- 💬 Ask me about **Aspnet Core with .Net 8.0, C#, React, TypeScript, <br>APIs, Html5, Css3, JS, jQuery plugins**.
+- 💬 Ask me about **. Net Core, React, TypeScript, <br>APIs, Html5, Css3, JS, JQuery plugins**.
 
 - 📫 How to reach me **leonardosousa60.profissional@gmail.com**.
 <br>
