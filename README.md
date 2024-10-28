@@ -22,10 +22,13 @@
 
 </div>
 <br><br>
-<h2></h2>
 <br>
-<p align="center"><img width="90%" alt="Coding" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-anime-lofi-1.gif"/><p/>
 <h2></h2>
+<h2 align="center" style="display: inline-block">
+ <p align="center">
+  <img width="300" src="https://profile-counter.glitch.me/leoszm/count.svg" />
+ </p>
+</h2>
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ</i> &ensp;🛠️</h2>
 <div>
   <table>
@@ -162,17 +165,6 @@
 </p>
 </div>
 </details>
-<!-- <img src="./images/gifs/borderseperator.gif"> --></h2>
-<h2 align="center" style="display: inline-block">
-<details close>
-<summary>🌎&ensp; <i>V I E W S</i> &ensp;🌎</summary>
- <br>
-<p align="center">
-  <img width="300" src="https://profile-counter.glitch.me/leoszm/count.svg" />
- </p>
- </details>
- <!-- <img src="./images/gifs/borderseperator.gif"/> -->
-</h2>
 </br>
 </details>
 <img src="./images/gifs/borderseperator.gif">
