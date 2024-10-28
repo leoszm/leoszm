@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Leonardo+Souza+Martins;I'm+22+Years+Old;I'm+From+Santo+André,+SP+-+Brazil;I+Work+in+Web+Development+with+.Net;I'm+Bachelor's+Degree+in+Computer+Science;Welcome+And+Enjoy!+:%29)](https://git.io/typing-svg)
 <div>
-<h2 align="center">📚&ensp; <i>A B O U T &nbsp; M E</i> &ensp;📚</h2>
+ <h2 align="center">📚&ensp; <i>A B O U T &nbsp; M E</i> &ensp;📚</h2>
 
-<a href="https://app.daily.dev/Leoszm"><img align="right" src="https://api.daily.dev/devcards/e90a0c681151496590a67f7c8a244de1.png?r=7ep" width="360" alt="Leonardo Souza Martins's Dev Card"/></a>
-<br>
+ <a href="https://app.daily.dev/Leoszm"><img align="right" src="https://api.daily.dev/devcards/e90a0c681151496590a67f7c8a244de1.png?r=7ep" width="360" alt="Leonardo Souza Martins's Dev Card"/></a>
+ <br>
 - 🤵 I'm web developer and Bachelor's Degree in Computer Science.
 
 - 🔭 I’m currently working at [City Hall of Santo André, SP, BRAZIL](https://web.santoandre.sp.gov.br).
@@ -17,11 +17,12 @@
 - 💬 Ask me about **. Net Core, React, TypeScript, <br>APIs, Html5, Css3, JS, JQuery plugins**.
 
 - 📫 How to reach me **leonardosousa60.profissional@gmail.com**.
-<br>
-<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;<i>An ordinary traveler with an insatiable curiosity...</i>&ensp;</h3>
+ <br>
+ <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;<i>An ordinary traveler with an insatiable curiosity...</i>&ensp;</h3>
 
 </div>
-<br><br>
+<br>
+<br>
 <br>
 <h2></h2>
 <h2 align="center" style="display: inline-block">
@@ -47,41 +48,60 @@
       <p align="center">⚙️&ensp; <i>T o o l s</i> &ensp;⚙️</p>
         <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-          <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
         <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /></p>    
+        <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+      </p>    
     </th>
   </table>
-<div>
- <h2></h2>
-<h2 align="center">🙋‍&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;🙋‍</h2>
-<a>&nbsp;</a>
-<img align="left" width="310px" height="235px" src="./images/gifs/who-are-you.gif" alt="anime coding" />
-<div>
-  <p align="center">
-  <br>
-    <a href="https://www.instagram.com/lleo_smz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/leoszm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://stackoverflow.com/users/20460025/leoszm"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white"></a>
-     <a href="https://dev.to/leoszm" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"/></a>
-       <a href="https://www.notion.so/049933406b6640188a8ddeaea910adcf" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="My notion project" target="_blank"/></a>
-       <a href="https://web.dio.me/users/leonardosousa60?tab=settings" target="_blank"><img src="./images/buttons/Captura de tela 2023-04-06 132024.png" alt="dio" target="_blank" width="55px"/></a>
-       </p><br><br>
-    <p align="center">
-    <a href="https://github.com/leoszm" target="_blank"><img height="55" width="55" src="./images/buttons/githublogo.png" alt=""/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="mailto:leonardosousa60.profissional@gmail.com" target="_blank"><img height="55" width="55" src="./images/buttons/gmailogo.png" alt=""/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://discordapp.com/users/702567755618189404" target="_blank"><img height="55" width="55" src="./images/buttons/discordlogo.png" alt=""/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    </p>
-    <p align="center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><i>LeoMrt#6452</i></strong></p>
-    </p>
+  <div>
+   <h2></h2>
+   <h2 align="center">🙋‍&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;🙋‍</h2>
+   <a>&nbsp;</a>
+   <img align="left" width="310px" height="235px" src="./images/gifs/who-are-you.gif" alt="anime coding" />
+    <div>
+     <p align="center">
+     <br>
+     <a href="https://www.instagram.com/lleo_smz/" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+     </a>
+     <a href="https://www.linkedin.com/in/leoszm/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
+     </a>
+     <a href="https://stackoverflow.com/users/20460025/leoszm">
+      <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white">
+     </a>
+     <a href="https://dev.to/leoszm" target="_blank">
+      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+     </a>
+     <a href="https://www.notion.so/049933406b6640188a8ddeaea910adcf" target="_blank">
+      <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="My notion project" />
+     </a>
+     <a href="https://web.dio.me/users/leonardosousa60?tab=settings" target="_blank">
+      <img src="./images/buttons/Captura de tela 2023-04-06 132024.png" alt="dio" target="_blank" width="55px"/>
+     </a>
+   </p>
+   <br>
+   <br>
+   <p align="center">
+    <a href="https://github.com/leoszm" target="_blank">
+     <img height="55" width="55" src="./images/buttons/githublogo.png" alt=""/>
+    </a>
+    <a href="mailto:leonardosousa60.profissional@gmail.com" target="_blank">
+     <img height="55" width="55" src="./images/buttons/gmailogo.png" alt=""/>
+    </a>
+    <a href="https://discordapp.com/users/702567755618189404" target="_blank">
+     <img height="55" width="55" src="./images/buttons/discordlogo.png" alt=""/>
+    </a>
+   </p>
   </div>
-   </div>
-  <br>
-<img src="./images/gifs/borderseperator.gif">
-<details close>
+ </div>
+ <br>
+ <img src="./images/gifs/borderseperator.gif">
+ <details close>
   <summary align="center"><h2>&ensp;<strong>🔥&ensp;<i>M O R E<i>&ensp;🔥</strong>&ensp;</h2></summary>
   </br>
   <h2></h2>
