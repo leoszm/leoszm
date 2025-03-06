@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Leonardo+Souza+Martins;I'm+22+Years+Old;I'm+From+Santo+André,+SP+-+Brazil;I+Work+in+Web+Development+with+.Net;I'm+Bachelor's+Degree+in+Computer+Science;Welcome+And+Enjoy!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Leonardo+Souza+Martins;I'm+24+Years+Old;I'm+From+Santo+André,+SP+-+Brazil;I+Work+in+Web+Development+with+.Net,React,Typescript,MySql+and+Oracle;I'm+Bachelor's+Degree+in+Computer+Science;Welcome+And+Enjoy!+:%29)](https://git.io/typing-svg)
 <div>
  <h2 align="center">📚&ensp; <i>A B O U T &nbsp; M E</i> &ensp;📚</h2>
 
