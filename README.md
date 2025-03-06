@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Leonardo+Souza+Martins;I'm+24+Years+Old;I'm+From+Santo+André,+SP+-+Brazil;I+Work+in+Web+Development+with+.Net,React,Typescript,MySql+and+Oracle;I'm+Bachelor's+Degree+in+Computer+Science;Welcome+And+Enjoy!+:%29)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Leonardo+Souza+Martins;I'm+24+Years+Old+and+i+currently+live+in+Brazil;I'm+From+Santo+André,+SP+-+Brazil;I+Work+in+Web+Development+with+.Net,React,Typescript,MySql+and+Oracle;I'm+Bachelor's+Degree+in+Computer+Science;Welcome+And+Enjoy!+:%29)](https://git.io/typing-svg)-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Leonardo+Souza+Martins;I'm+24+Years+Old+and+I+currently+live+in+Brazil;I'm+from+Santo+André,+SP+-+Brazil;I+work+in+Web+Development+with+.NET,+React,+TypeScript,+MySQL,+and+Oracle;I+have+a+Bachelor's+Degree+in+Computer+Science;Welcome+and+Enjoy!+:%29)](https://git.io/typing-svg)
 <div>
  <h2 align="center">📚&ensp; <i>A B O U T &nbsp; M E</i> &ensp;📚</h2>
 
