@@ -190,7 +190,8 @@
 </div>
 </details>
 <!--<img src="./images/gifs/borderseperator.gif">-->
-<h2 align="center">🐍&ensp; <i>Snake</i> &ensp;🐍</summary></h2> 
+<!--Removing snake because it's not working-->
+<!--<h2 align="center">🐍&ensp; <i>Snake</i> &ensp;🐍</summary></h2>-->
 
 <!--![snake gif](https://github.com/leoszm/leoszm/blob/output/github-contribution-grid-snake.svg)-->
 
