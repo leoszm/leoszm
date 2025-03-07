@@ -38,7 +38,7 @@
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ</i> &ensp;🛠️</h2>
 <div>
   <table>
-    <th>
+    <th border="0">
       <p align="center">
         <p align="center">💻&ensp; <i>L a n g u a g e s</i> &ensp;💻</p>
           <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
