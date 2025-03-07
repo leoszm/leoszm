@@ -38,7 +38,7 @@
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ</i> &ensp;🛠️</h2>
 <div>
   <table>
-    <th border="0">
+    <th>
       <p align="center">
         <p align="center">💻&ensp; <i>L a n g u a g e s</i> &ensp;💻</p>
           <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -109,10 +109,6 @@
  </div>
  <br>
  <img src="./images/gifs/borderseperator.gif">
- <details close>
-  <summary align="center"><h2>&ensp;<strong>🔥&ensp;<i>M O R E<i>&ensp;🔥</strong>&ensp;</h2></summary>
-  </br>
-  <h2></h2>
 <h2 align="center" style="display: inline-block">
 <details close>
 <summary>👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</summary>
@@ -193,12 +189,10 @@
 </p>
 </div>
 </details>
-</br>
-</details>
-<img src="./images/gifs/borderseperator.gif">
+<!--<img src="./images/gifs/borderseperator.gif">-->
 <h2 align="center">🐍&ensp; <i>Snake</i> &ensp;🐍</summary></h2> 
 
-![snake gif](https://github.com/leoszm/leoszm/blob/output/github-contribution-grid-snake.svg)
+<!--![snake gif](https://github.com/leoszm/leoszm/blob/output/github-contribution-grid-snake.svg)-->
 
 <img src="./images/gifs/borderseperator.gif">
 <div align="center">
