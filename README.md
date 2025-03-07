@@ -11,7 +11,7 @@
  <br>
 - 🤵 I'm web developer and Bachelor's Degree in Computer Science.
 
-- 🔭 I’m currently working at [City Hall of Santo André, SP, BRAZIL](https://web.santoandre.sp.gov.br).
+- 🔭 I’m currently working at [Tecnocomp Tecnologias e Serviços, SP, BRAZIL](https://tecnocomp.com.br).
 
 - 🤖 I like to learn new things and ideas, technologies and meet new people!
 
