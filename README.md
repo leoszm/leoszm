@@ -15,11 +15,11 @@
 
 - 🤖 I like to learn new things and ideas, technologies and meet new people!
 
-- 🌱 I’m currently learning **React and TypeScript**.
+- 🌱 I’m currently learning **NextJs**.
 
 - 👨‍💻 All of my projects are available at [leoszm](https://github.com/leoszm?tab=repositories).
 
-- 💬 Ask me about **. Net Core, React, TypeScript, <br>APIs, Html5, Css3, JS, JQuery plugins**.
+- 💬 Ask me about **. Net Core, React, TypeScript, NextJs<br>APIs, Html5, Css3, JS, JQuery**.
 
 - 📫 How to reach me **leonardosousa60.profissional@gmail.com**.
  <br>
@@ -46,6 +46,7 @@
           <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
           <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
           <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+          <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
       </p>
     </th>
     <th>
